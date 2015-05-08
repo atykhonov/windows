@@ -152,7 +152,9 @@
         "script/clean.bat",
         "script/ultradefrag.bat",
         "script/uninstall-7zip.bat",
-        "script/sdelete.bat"
+        "script/sdelete.bat",
+	"script/install-net4.bat",
+	"script/install-chocolatey.bat"
       ],
       "type": "shell"
     },

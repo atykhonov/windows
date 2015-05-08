@@ -164,7 +164,7 @@
     }
   ],
   "variables": {
-    "cm": "chef",
+    "cm": "chefdk",
     "cm_version": "",
     "headless": false,
     "iso_checksum": "15ddabafa72071a06d5213b486a02d5b55cb7070",
